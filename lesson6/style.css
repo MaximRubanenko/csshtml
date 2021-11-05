@@ -1,0 +1,271 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    }
+.containerforcontacts{
+    width: 1140px;
+    margin: 0 auto;
+    /* display: flex; */
+}
+
+.heading{
+    overflow: hidden;
+    height: 20px;
+    box-sizing: border-box;
+}
+
+.headingFooter{
+    overflow: hidden;
+    height: 20px;
+    width: 340px;
+    box-sizing: border-box;
+    color:whitesmoke;
+    padding-left: 20px;
+    
+}
+
+.whiteText{
+    color:whitesmoke;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.allViewArea{
+    border: 1px solid grey;
+    height: 3383px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.pageOne{
+    /* border: 3px solid red; */
+    height: 768px;
+    /* width: 1366px; */
+    box-sizing: border-box;
+    background: linear-gradient(0deg, #EBF3FB 8.84%, rgba(152, 195, 232, 0) 31.12%);
+}
+
+/* .pageOneCentralPanel{
+    border: 3px solid blue;
+    height: 750px;
+    width: 1115px;
+    margin-left: 80px;
+    box-sizing: border-box;
+} */
+
+.menuTopPage{
+    list-style-type: none;
+    /* border: 3px solid green; */
+    /* margin-top: 30px; */
+    height: 60px;
+    /* width: 1115px; */
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 113px;
+    padding-right: 113px;
+    /* padding-right: 113px; */
+    padding-top: 42px;
+    align-items: center;
+    }
+
+.classAncor{
+    box-sizing: border-box;
+    height: auto;
+    width: auto;
+    
+}
+
+.mainOfferMoto{
+    /* border: 3px solid blue; */
+    padding-left: 113px;
+    padding-top: 115px;
+    height: 300px;
+    width: 500px;
+    box-sizing: border-box;
+}
+.textH1 {
+width: 504px;
+left: 113px;
+top: 189px;
+font-family:  Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 74px;
+letter-spacing: 0.04em;
+color: #1F3F68;
+margin-bottom: 32px;
+}
+
+.textP{
+width: 425px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.05em;
+color: #1F3F68;
+opacity: 0.6;
+}
+
+.top_button{
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+    text-align: center;
+    letter-spacing: 0.04em;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    background: #5A98D0;
+    box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.2);
+    border-radius: 10px;
+    padding: 15px 50px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 71px;
+    
+}
+
+.pageBody{
+    border: 3px dotted green;
+    height: 1950;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.offerPanel{
+    border: 3px dotted grey;
+    height: 908px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.growPanel{
+    border: 3px solid blue;
+    height: 600px;
+    width: 1115px;
+    margin-left: 80px;
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+.what-we-do-container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.classH4{
+    width:  359px;
+    padding-top: 10px;
+}
+
+.classH4andP{
+    width:  359px;
+    padding-top: 30px;
+}
+
+
+.growPanelMesage{
+    border: 3px solid green;
+    height: 500px;
+    width: 1115px;
+    margin-top: 65px;    
+    box-sizing: border-box;
+}
+
+.growPanelLeft{
+    border: 3px solid violet;
+    height: 440px;
+    width: 360px;
+    margin-top: 30px;    
+    box-sizing: border-box;
+}
+
+.finishProjPanel{
+    border: 3px solid red;
+    height: 165px;
+    width: 1115px;
+    margin-left: 80px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.imgPanel{
+    border: 3px dotted grey;
+    height: 1073px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.pageFooter{
+    background-color: rgb(18, 92, 153);
+    border: 3px solid red;
+    height: 660px;
+    width: 1279px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.footerTop{
+    border: 3px solid wheat ;
+    height: 360px;
+    width: 1115px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.footerDown{
+    border: 3px solid rgb(107, 155, 107) ;
+    height: 200px;
+    width: 1115px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.footerOffer{
+    border: 3px solid violet;
+    margin-left: 0px;
+    margin-top: 60px;
+    height: 250px;
+    width: 495px;
+    box-sizing: border-box;
+}
+
+.footerLine{
+    color: whitesmoke;
+    height: 10px;
+    width: 1115px;
+    margin-top: 10px;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+.footerLine2{
+    color: whitesmoke;
+    height: 10px;
+    width: 1115px;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+.connect{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+
+}
+.mapClass{
+    align-content: stretch;
+}

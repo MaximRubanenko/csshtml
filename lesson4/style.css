@@ -1,0 +1,171 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading{
+    overflow: hidden;
+    height: 20px;
+    box-sizing: border-box;
+}
+
+.headingFooter{
+    overflow: hidden;
+    height: 20px;
+    box-sizing: border-box;
+    color:whitesmoke;
+    
+}
+
+.whiteText{
+    color:whitesmoke;
+}
+
+.allViewArea{
+    border: 1px solid grey;
+    height: 3383px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.pageOne{
+    border: 3px solid red;
+    height: 750px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.pageOneCentralPanel{
+    border: 3px solid blue;
+    height: 750px;
+    width: 1115px;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+.menuTopPage{
+    border: 3px solid green;
+    margin-top: 30px;
+    height: 60px;
+    width: 1115px;
+    box-sizing: border-box;
+}
+
+.mainOfferMoto{
+    border: 3px solid blue;
+    margin-left: 0px;
+    margin-top: 60px;
+    height: 300px;
+    width: 500px;
+    box-sizing: border-box;
+}
+
+.pageBody{
+    border: 3px dotted green;
+    height: 1950;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.offerPanel{
+    border: 3px dotted grey;
+    height: 908px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.growPanel{
+    border: 3px solid blue;
+    height: 600px;
+    width: 1115px;
+    margin-left: 80px;
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+
+.growPanelMesage{
+    border: 3px solid green;
+    height: 500px;
+    width: 1115px;
+    margin-top: 65px;    
+    box-sizing: border-box;
+}
+
+.growPanelLeft{
+    border: 3px solid violet;
+    height: 440px;
+    width: 360px;
+    margin-top: 30px;    
+    box-sizing: border-box;
+}
+
+.finishProjPanel{
+    border: 3px solid red;
+    height: 165px;
+    width: 1115px;
+    margin-left: 80px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.imgPanel{
+    border: 3px dotted grey;
+    height: 1073px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.pageFooter{
+    background-color: rgb(18, 92, 153);
+    border: 3px solid red;
+    height: 660px;
+    width: 1279px;
+    box-sizing: border-box;
+}
+
+.footerTop{
+    border: 3px solid wheat ;
+    height: 360px;
+    width: 1115px;
+    margin-top: 3px;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+.footerDown{
+    border: 3px solid rgb(107, 155, 107) ;
+    height: 200px;
+    width: 1115px;
+    margin-top: 40px;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+.footerOffer{
+    border: 3px solid violet;
+    margin-left: 0px;
+    margin-top: 60px;
+    height: 250px;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+.footerLine{
+    color: whitesmoke;
+    height: 10px;
+    width: 1115px;
+    margin-top: 40px;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+.footerLine2{
+    color: whitesmoke;
+    height: 10px;
+    width: 1115px;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
